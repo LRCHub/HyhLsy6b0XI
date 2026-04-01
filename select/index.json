@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Bertaut",
   "base_artist": "Nadin Amizah",
-  "createdAt": "2026-03-08T20:26:46.870225Z",
+  "createdAt": "2026-04-01T13:22:21.129770Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,15 @@
       "artist": "Nadin Amizah",
       "has_synced": false,
       "path": "select/pl_01_Bertaut_Nadin_Amizah.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "has_synced": true,
+      "path": "select/localdb_01_Bertaut_Nadin_Amizah.lrc",
+      "repo_name": "HyhLsy6b0XI"
     }
   ]
 }
